@@ -50,7 +50,7 @@
           <mxGeometry x="20" y="150" width="540" height="330" as="geometry" />
         </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-38" value="Modular power dissipation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="180" width="150" height="70" as="geometry" />
+          <mxGeometry x="30" y="180" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.899;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FGH7GBQXBBGPfrD6mBJU-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-43" value="Modular Power Dissipation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="190" y="180" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
