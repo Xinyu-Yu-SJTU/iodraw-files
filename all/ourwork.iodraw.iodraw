@@ -245,19 +245,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wKI4SL1Ug2lyUOCKzXUJ-21" target="wKI4SL1Ug2lyUOCKzXUJ-23">
+        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="550" as="sourcePoint" />
+            <mxPoint x="190" y="560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="530" />
               <mxPoint x="170" y="540" />
+              <mxPoint x="170" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-21" value="Random User Behavior" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="40" y="525" width="120" height="20" as="geometry" />
+          <mxGeometry x="40" y="530" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-22" value="MMPP Five-State Model" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="187" y="510" width="123" height="20" as="geometry" />
+          <mxGeometry x="190" y="520" width="123" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-23" value="Load Current Generation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="190" y="540" width="120" height="20" as="geometry" />
