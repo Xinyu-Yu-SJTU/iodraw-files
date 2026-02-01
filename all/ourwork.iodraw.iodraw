@@ -252,7 +252,7 @@
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-28" value="Key Factor Identification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="430" y="510" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1">
+        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="202.75" y="459.9999999999999" as="sourcePoint" />
             <mxPoint x="367.2499999999999" y="510" as="targetPoint" />
