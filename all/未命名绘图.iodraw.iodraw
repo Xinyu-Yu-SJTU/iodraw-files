@@ -52,10 +52,10 @@
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-38" value="Modular power dissipation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="180" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.865;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FGH7GBQXBBGPfrD6mBJU-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="350" as="sourcePoint" />
-            <mxPoint x="290" y="300" as="targetPoint" />
+            <mxPoint x="100" y="180" as="sourcePoint" />
+            <mxPoint x="150" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
