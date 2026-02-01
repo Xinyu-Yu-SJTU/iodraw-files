@@ -106,7 +106,7 @@
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-51" value="Environmental Effect Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="355" y="179" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-52" value="Aging Effect Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-52" value="Aging Effect Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;strokeColor=#CC6600;" parent="1" vertex="1">
           <mxGeometry x="355" y="239" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-53" value="Numerical Solution and Uncertainty Quantification" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
