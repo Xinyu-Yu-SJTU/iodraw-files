@@ -97,13 +97,13 @@
             <mxPoint x="190" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-51" value="Environmental Effect Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-51" value="Environmental Effect Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="350" y="180" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-52" value="Aging Effect Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-52" value="Aging Effect Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="350" y="240" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-53" value="Numerical Solution and Uncertainty Quantification" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-53" value="Numerical Solution and Uncertainty Quantification" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="30" y="300" width="520" height="260" as="geometry" />
         </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-55" value="Adaptive RK45 Solving" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
