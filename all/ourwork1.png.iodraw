@@ -264,7 +264,7 @@
           <mxGeometry x="185" y="519" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-23" value="Load Current Generation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="191" y="539" width="120" height="20" as="geometry" />
+          <mxGeometry x="190" y="539" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-27" value="Sobol Method" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="334" y="509" width="101" height="40" as="geometry" />
@@ -353,7 +353,7 @@
         </mxCell>
         <mxCell id="UEW6Cr9unn3mXS3-O_dk-13" value="Closed-loop Control" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;fontColor=#ff0000;" connectable="0" vertex="1" parent="UEW6Cr9unn3mXS3-O_dk-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="53" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
