@@ -184,7 +184,7 @@
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-1" value="Optimize Policy Generation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="145" y="439" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UEW6Cr9unn3mXS3-O_dk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="wKI4SL1Ug2lyUOCKzXUJ-2" target="wKI4SL1Ug2lyUOCKzXUJ-27">
+        <mxCell id="UEW6Cr9unn3mXS3-O_dk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" source="wKI4SL1Ug2lyUOCKzXUJ-2" target="wKI4SL1Ug2lyUOCKzXUJ-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="383" y="460" />
@@ -194,7 +194,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UEW6Cr9unn3mXS3-O_dk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="wKI4SL1Ug2lyUOCKzXUJ-2" target="wKI4SL1Ug2lyUOCKzXUJ-28">
+        <mxCell id="UEW6Cr9unn3mXS3-O_dk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="wKI4SL1Ug2lyUOCKzXUJ-2" target="wKI4SL1Ug2lyUOCKzXUJ-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="459" />
