@@ -55,7 +55,7 @@
             <mxPoint x="140" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-37" value="Multi-factor Integration and Randomization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-37" value="Multi-factor Integration and Randomization" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="20" y="150" width="540" height="330" as="geometry" />
         </mxCell>
       </root>
