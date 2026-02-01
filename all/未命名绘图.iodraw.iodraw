@@ -7,7 +7,7 @@
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="30" width="270" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-5" value="Core Physical Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-5" value="Core Physical Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
