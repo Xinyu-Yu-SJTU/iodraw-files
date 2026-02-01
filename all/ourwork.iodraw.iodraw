@@ -265,13 +265,13 @@
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-28" value="Key Factor Identification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="510" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FGH7GBQXBBGPfrD6mBJU-53" target="wKI4SL1Ug2lyUOCKzXUJ-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="560" as="sourcePoint" />
-            <mxPoint x="350" y="510" as="targetPoint" />
+            <mxPoint x="290" y="550" as="sourcePoint" />
+            <mxPoint x="340" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="560" />
-              <mxPoint x="300" y="510" />
+              <mxPoint x="340" y="550" />
+              <mxPoint x="290" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
