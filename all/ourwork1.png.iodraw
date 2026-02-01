@@ -351,8 +351,10 @@
             <mxPoint x="102.3" y="529" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UEW6Cr9unn3mXS3-O_dk-13" value="Closed-loop Control" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" connectable="0" vertex="1" parent="UEW6Cr9unn3mXS3-O_dk-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UEW6Cr9unn3mXS3-O_dk-13" value="Closed-loop Control" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;fontColor=#ff0000;" connectable="0" vertex="1" parent="UEW6Cr9unn3mXS3-O_dk-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
