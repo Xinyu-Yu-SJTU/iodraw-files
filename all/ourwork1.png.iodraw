@@ -28,7 +28,7 @@
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-23" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Thermal Dynamic Equations&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#00CC00;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="305" y="49" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-24" value="Electric-thermal bonds" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-24" value="Electric-thermal bonds" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="435" y="49" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-30" value="Problem Background Analysis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-34" value="Data Collection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="324" y="629" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-37" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Multi-factor Integration and Randomization&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-37" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Multi-factor Integration and Randomization&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=default;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="25" y="149" width="540" height="420" as="geometry" />
         </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-38" value="Modular power dissipation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
