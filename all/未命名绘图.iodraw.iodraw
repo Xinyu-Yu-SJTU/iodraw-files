@@ -10,11 +10,8 @@
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-5" value="Core Physical Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FGH7GBQXBBGPfrD6mBJU-6" target="FGH7GBQXBBGPfrD6mBJU-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Electrochemical Dynamic Equations&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="30" width="110" height="50" as="geometry" />
+          <mxGeometry x="20" y="30" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
