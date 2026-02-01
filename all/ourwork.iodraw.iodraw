@@ -240,10 +240,10 @@
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-21" value="Random User Behavior" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="30" y="530" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-22" value="MMPP Five-State Model" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="183" y="520" width="123" height="20" as="geometry" />
+        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-22" value="MMPP Five-State Model" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="180" y="520" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-23" value="Load Current Generation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-23" value="Load Current Generation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="186" y="540" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-27" value="Sobol Method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
