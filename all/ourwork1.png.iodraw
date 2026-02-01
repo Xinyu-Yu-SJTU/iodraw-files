@@ -325,9 +325,6 @@
             <mxPoint x="555" y="299" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UEW6Cr9unn3mXS3-O_dk-1" value="&lt;span style=&quot;color: rgb(255, 0, 0); font-size: 8px; text-wrap: nowrap;&quot;&gt;Closed-loop control&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="720" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="UEW6Cr9unn3mXS3-O_dk-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wKI4SL1Ug2lyUOCKzXUJ-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="135" y="579" as="sourcePoint" />
@@ -354,7 +351,7 @@
             <mxPoint x="102.3" y="529" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UEW6Cr9unn3mXS3-O_dk-13" value="Closed-loop Control" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="UEW6Cr9unn3mXS3-O_dk-12">
+        <mxCell id="UEW6Cr9unn3mXS3-O_dk-13" value="Closed-loop Control" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" connectable="0" vertex="1" parent="UEW6Cr9unn3mXS3-O_dk-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
