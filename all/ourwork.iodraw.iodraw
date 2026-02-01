@@ -286,7 +286,7 @@
             <mxPoint x="310" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-35" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 6px;&quot;&gt;Closed-loop control&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=349;labelBackgroundColor=none;" connectable="0" vertex="1" parent="wKI4SL1Ug2lyUOCKzXUJ-34">
+        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-35" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 8px;&quot;&gt;Closed-loop control&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=349;labelBackgroundColor=none;" connectable="0" vertex="1" parent="wKI4SL1Ug2lyUOCKzXUJ-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-25" as="offset" />
           </mxGeometry>
