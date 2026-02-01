@@ -259,8 +259,8 @@
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-23" value="Load Current Generation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="190" y="530" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="319" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-27" value="Sobol Method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="510" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
