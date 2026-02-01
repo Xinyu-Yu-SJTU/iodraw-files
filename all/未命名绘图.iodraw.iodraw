@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7" y="40" width="562" height="450" as="geometry" />
         </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-5" value="Core Physical Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=18;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-33" value="Assumption Building" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="320" y="510" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-34" value="Data Collection" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-34" value="Data Collection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="320" y="590" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
