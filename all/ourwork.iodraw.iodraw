@@ -280,6 +280,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="530" as="sourcePoint" />
             <mxPoint x="640" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="530" />
+              <mxPoint x="580" y="20" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-33" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="wKI4SL1Ug2lyUOCKzXUJ-32">
