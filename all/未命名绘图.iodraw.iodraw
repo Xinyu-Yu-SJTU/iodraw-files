@@ -70,6 +70,9 @@
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-44" value="Environmental Effect Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="210" width="150" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="235" width="150" height="15" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
