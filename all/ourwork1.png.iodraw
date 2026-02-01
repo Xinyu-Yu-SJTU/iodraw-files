@@ -115,7 +115,7 @@
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-55" value="Adaptive RK45 Solving" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="45" y="329" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-57" value="Bayesian Parameter Estimation&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-57" value="Bayesian Parameter Estimation&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="188" y="329" width="177" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=2;" parent="1" source="FGH7GBQXBBGPfrD6mBJU-58" target="FGH7GBQXBBGPfrD6mBJU-60" edge="1">
@@ -137,7 +137,7 @@
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=2;" parent="1" source="FGH7GBQXBBGPfrD6mBJU-58" target="FGH7GBQXBBGPfrD6mBJU-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-58" value="Triple Monte Carlo Simulation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-58" value="Triple Monte Carlo Simulation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="375" y="329" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-59" value="Initial Condition Sampling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
