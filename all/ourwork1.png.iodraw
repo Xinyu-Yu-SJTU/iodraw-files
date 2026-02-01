@@ -140,7 +140,7 @@
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-58" value="Triple Monte Carlo Simulation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="375" y="329" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-59" value="Initial Condition Sampling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-59" value="Initial Condition Sampling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="45" y="369" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-60" value="Parameter Uncertainty" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=none;" parent="1" vertex="1">
@@ -181,10 +181,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-69" value="Model Analysis and Optimization Generation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff0000;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-69" value="Model Analysis and Optimization Generation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff0000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="45" y="399" width="500" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-70" value="Model Validation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ff0000;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-70" value="Model Validation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ff0000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="45" y="439" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UEW6Cr9unn3mXS3-O_dk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=2;" parent="1" source="wKI4SL1Ug2lyUOCKzXUJ-1" target="wKI4SL1Ug2lyUOCKzXUJ-10" edge="1">
@@ -203,7 +203,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-1" value="Optimize Policy Generation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ff0000;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-1" value="Optimize Policy Generation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ff0000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="145" y="439" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UEW6Cr9unn3mXS3-O_dk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;endSize=2;" parent="1" source="wKI4SL1Ug2lyUOCKzXUJ-2" target="wKI4SL1Ug2lyUOCKzXUJ-27" edge="1">
@@ -226,7 +226,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Global Sensitivity Analysis&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff0000;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Global Sensitivity Analysis&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff0000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="285" y="439" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=2;" parent="1" source="wKI4SL1Ug2lyUOCKzXUJ-3" target="wKI4SL1Ug2lyUOCKzXUJ-13" edge="1">
