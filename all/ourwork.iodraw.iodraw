@@ -246,10 +246,10 @@
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-23" value="Load Current Generation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="186" y="540" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-27" value="Sobol Method" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-27" value="Sobol Method" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="329" y="510" width="101" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-28" value="Key Factor Identification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-28" value="Key Factor Identification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="430" y="510" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
