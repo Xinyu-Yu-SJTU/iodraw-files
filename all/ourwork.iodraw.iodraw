@@ -150,7 +150,10 @@
           <mxGeometry x="40" y="440" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-1" value="Global Sensitivity Analysis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="140" y="430" width="130" height="20" as="geometry" />
+          <mxGeometry x="140" y="440" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
