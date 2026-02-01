@@ -146,8 +146,8 @@
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-61" value="Input Randomness" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="370" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-69" value="Model Analysis and Op" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="500" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
