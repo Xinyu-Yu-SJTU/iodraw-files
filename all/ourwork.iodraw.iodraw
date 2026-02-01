@@ -109,9 +109,6 @@
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-55" value="Adaptive RK45 Solving" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="40" y="330" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-53" value="Numerical Solution and Uncertainty Quantification" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="30" y="300" width="520" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-57" value="Bayesian Parameter Estimation&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="183" y="330" width="177" height="20" as="geometry" />
         </mxCell>
@@ -136,6 +133,9 @@
         </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-58" value="Triple Monte Carlo Simulation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="370" y="330" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-53" value="Numerical Solution and Uncertainty Quantification" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="30" y="300" width="520" height="260" as="geometry" />
         </mxCell>
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-59" value="Initial Condition Sampling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="40" y="370" width="140" height="20" as="geometry" />
