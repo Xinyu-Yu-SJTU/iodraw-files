@@ -49,7 +49,7 @@
         <mxCell id="FGH7GBQXBBGPfrD6mBJU-24" value="Electric-thermal bonds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="130" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FGH7GBQXBBGPfrD6mBJU-30" value="Problem Background Analysis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="FGH7GBQXBBGPfrD6mBJU-30" value="Problem Background Analysis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="7" y="510" width="293" height="60" as="geometry" />
         </mxCell>
       </root>
