@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="9e7oDFF6uiVgaLhoGfNe">
-    <mxGraphModel dx="842" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="669" background="none" math="0" shadow="0">
+    <mxGraphModel dx="488" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="669" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,7 +185,12 @@
           <mxGeometry x="145" y="439" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UEW6Cr9unn3mXS3-O_dk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wKI4SL1Ug2lyUOCKzXUJ-2" target="wKI4SL1Ug2lyUOCKzXUJ-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="383" y="480" />
+              <mxPoint x="385" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Global Sensitivity Analysis&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="285" y="439" width="130" height="20" as="geometry" />
