@@ -185,7 +185,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="470" />
-              <mxPoint x="95" y="470" />
+              <mxPoint x="103" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -193,7 +193,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="470" />
-              <mxPoint x="220" y="470" />
+              <mxPoint x="223" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -243,7 +243,7 @@
           <mxGeometry x="425" y="439" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-10" value="MPC Control Framework" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="45" y="479" width="100" height="20" as="geometry" />
+          <mxGeometry x="45" y="479" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wKI4SL1Ug2lyUOCKzXUJ-12" value="User Behavior Guide" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="170" y="479" width="105" height="20" as="geometry" />
